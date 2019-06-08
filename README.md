@@ -1,2 +1,2 @@
 # Titanic
-This my Titanic basic solution
+This is my solution to Titanic problem
